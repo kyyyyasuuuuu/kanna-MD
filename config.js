@@ -43,19 +43,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/riskysatyr'
 global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://https://chat.whatsapp.com/KhjrBWM3JavIfNnXtpE8bE'
+global.sgc = 'https://chat.whatsapp.com/KhjrBWM3JavIfNnXtpE8bE'
 global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
 global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '085723302803'
+global.povo = '085723302803'
+global.pgopay = '085723302803'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285624269084'
 global.nomorown = '6285723302803'
-global.namebot = '⳹ ❋ཻུ۪۪⸙C-botz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '⳹ ❋ཻུ۪۪⸙𝘑𝘰𝘶𝘷𝘺-botz-MD⳹ ❋ཻུ۪۪'
 global.nameown = 'ᴹᴿ᭄ KyyOffcོ_1ঔৣ꧂'
 
 
@@ -64,7 +64,7 @@ global.owner = [
   ['6285828377610'],
   ['6285828377610'],
   ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['6285828377610', 'Ikyy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
