@@ -18,8 +18,8 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp owner C-botz`
 
 //------------ BIO
-let ppown = 'https://www.instagram.com/riskysatyr'
-let teksbio = `${htki} *BIODATA* ${htka}
+let ppown = 'https://telegra.ph/file/818f37ac77368abfbe95d.jpg'
+let teksbhio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* : Ikyy
 ❑ *Umur* : 15 Tahun
 ❑ *Kelas* : 2 Sma
