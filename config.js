@@ -61,10 +61,10 @@ global.nameown = 'ᴹᴿ᭄ KyyOffcོ_1ঔৣ꧂'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Ikyy', true]
+  ['6285723302803'],
+  ['6285723302803'],
+  ['6285723302803'],
+  ['6285723302803', 'Ikyy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
