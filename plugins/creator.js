@@ -11,14 +11,14 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner C-otz tidak menerima save contact
+• Owner C-Botz tidak menerima save contact
 • Owner C-botz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner C-botz Hanya merespon yang berkaitan dengan BOT
 • No Telp owner C-botz`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
+let ppown = 'https://www.instagram.com/riskysatyr'
 let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* : Ikyy
 ❑ *Umur* : 15 Tahun
